@@ -1,0 +1,13 @@
+.rating-div{
+  height:100vh;
+  display:flex;
+margin-top:100px;
+}
+.rating-div div{
+  height:50px;
+  width:50px;
+  border:1px solid black;
+}
+.bg-y{
+  background-color:yellow;
+}
